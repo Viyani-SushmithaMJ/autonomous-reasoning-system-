@@ -1,5 +1,5 @@
 ## 👥 Original Project
-This project was developed as a group project with the following contributors:
+This project was developed with the following contributors:
 - Viyani Sushmitha MJ
 - Suhaas Teja Vijjagiri
 - Sudip Das
