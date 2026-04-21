@@ -55,13 +55,6 @@ Control decision layer (MPC-compatible)
 
 This project does NOT aim to replace autonomous driving systems.
 
-Instead, it focuses on:
-
-Enhancing interpretability of decisions
-Improving debugging capability for AV systems
-Increasing user trust in autonomous driving models
-Providing a language-based reasoning layer over perception systems
-
 🧪 Evaluation
 
 The system includes evaluation outputs stored in:
@@ -79,7 +72,7 @@ Structured output validation
 🧩 Technologies Used
 CARLA Simulator
 Vision-Language Models (VLM)
-LLaVA / Ollama-based inference (if applicable)
+LLaVA / Ollama-based inference 
 Python
 OpenAI-style structured prompting
 Pandas / Parquet / CSV evaluation pipeline
