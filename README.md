@@ -18,7 +18,9 @@ The system processes camera images and lightweight vehicle telemetry to generate
 Rather than directly controlling the vehicle, the VLM acts as a high-level reasoning agent that:
 
 Interprets the driving scene
+
 Identifies risks and hazards
+
 Suggests high-level driving actions with explanations
 
 This enables a human-interpretable autonomous driving pipeline.
@@ -60,14 +62,20 @@ This project does NOT aim to replace autonomous driving systems.
 The system includes evaluation outputs stored in:
 
 eval_results.csv
+
 ollama_results.parquet
+
 ollama_results.html
+
 
 These files capture:
 
 Model reasoning quality
+
 Action selection consistency
+
 Structured output validation
+
 
 🧩 Technologies Used
 CARLA Simulator
