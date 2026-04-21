@@ -77,13 +77,15 @@ Action selection consistency
 Structured output validation
 
 
-🧩 Technologies Used
+🧩 Technologies Used 
+
 CARLA Simulator
 Vision-Language Models (VLM)
 LLaVA / Ollama-based inference 
 Python
 OpenAI-style structured prompting
 Pandas / Parquet / CSV evaluation pipeline
+
 📊 Outputs
 
 The system generates:
